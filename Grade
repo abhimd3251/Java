@@ -1,0 +1,16 @@
+class Grade
+{
+  public static void main(String[] args)
+     {
+int cycbersercurity=100;
+int artificialinteligance=88;
+int webtechnology=100;
+int datascience=60;
+int computernetwork=90;
+
+// persentage=(sum of all mark *100) /Total marks;
+// ((100+88+100+60+90) *100) /500;
+dobule persentage=((cycbersecurity+artificialinterligance+eebtechnology+datascience+computernetwork) *100) /500;
+
+int marks=(int) persentage; //type casting 
+
