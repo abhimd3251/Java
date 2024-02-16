@@ -12,5 +12,5 @@ int computernetwork=90;
 // ((100+88+100+60+90) *100) /500;
 dobule persentage=((cycbersecurity+artificialinterligance+eebtechnology+datascience+computernetwork) *100) /500;
 
-int marks=(int) persentage; //type casting 
+int marks=(int) persentage; 
 
