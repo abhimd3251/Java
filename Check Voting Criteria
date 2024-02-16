@@ -1,0 +1,13 @@
+class CheckVotingCretieria 
+  {
+public stastic void main(String[] args)
+      {
+
+int age:25;
+String result= age>=18?("you are eligible for voting"):("sorry try next time");
+
+System.out.println(result);
+
+     }
+  
+}
